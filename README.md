@@ -1,6 +1,6 @@
 🛰️ Astrolite + IA
 
-Zero-Trust Telemetry Integrity Infrastructure for Mission-Critical Space Systems
+Zero-Trust Telemetry Integrity Infrastructure for Mission-Critical Space Systems.
 Astrolite is not an application.
 It is a high-assurance integrity layer that operates between your orbital assets and your ground infrastructure to answer one mission-critical question in real time:
 Can this signal be trusted?
